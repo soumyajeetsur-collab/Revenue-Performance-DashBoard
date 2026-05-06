@@ -67,6 +67,10 @@ It provides insights into **sales trends, revenue, and key performance indicator
 ## 📸 Dashboard Preview
 
 <p align="center">
+<img width="815" height="373" alt="Revenue First Dashboard" src="https://github.com/user-attachments/assets/e8057665-8c45-4871-8c50-0f0e7129a6f4" />
+<img width="949" height="531" alt="2 Revenue Dashboard" src="https://github.com/user-attachments/assets/ddcf4f44-bc24-4271-885c-1d0a2a6a648e" />
+<img width="916" height="535" alt="3rd Revenue Dashboard" src="https://github.com/user-attachments/assets/3eebbbaf-dfa5-4139-8d11-c5d8b42ff8ef" />
+
 
 
 ---
