@@ -67,8 +67,7 @@ It provides insights into **sales trends, revenue, and key performance indicator
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.gif" width="800"/>
-</p>
+
 
 ---
 
